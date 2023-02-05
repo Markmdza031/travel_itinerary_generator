@@ -1,4 +1,8 @@
-# [travel_itinerary_generator](https://drive.google.com/file/d/1MtSX4FZmLpY7_vDZp0gG_8udwjtkJpix/view?usp=sharing)
+# travel_itinerary_generator
+
+[Git Hub Repo](https://drive.google.com/file/d/1MtSX4FZmLpY7_vDZp0gG_8udwjtkJpix/view?usp=sharing)
+
+Demo: https://www.youtube.com/watch?v=vn1t1WypMTA 
 
 A team of 4 data scientists collaborated to develop a Natural Language Processing (NLP) and Network Analysis-based machine learning model that recommends a personalized travel itinerary in Region 4a of the Philippines. The model takes keyword inputs from the user, such as destinations, budget, and preferred activities, and returns a tailored itinerary that best fits the user's needs.
 
