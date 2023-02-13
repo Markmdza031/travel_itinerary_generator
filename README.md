@@ -4,7 +4,7 @@
 
 Demo: https://www.youtube.com/watch?v=vn1t1WypMTA 
 
-A team of 4 data scientists collaborated to develop a Natural Language Processing (NLP) and Network Analysis-based machine learning model that recommends a personalized travel itinerary in Region 4a of the Philippines. The model takes keyword inputs from the user, such as destinations, budget, and preferred activities, and returns a tailored itinerary that best fits the user's needs.
+A Natural Language Processing (NLP) and Network Analysis-based machine learning model that recommends a personalized travel itinerary in Region 4a of the Philippines. The model takes keyword inputs from the user, such as destinations, budget, and preferred activities, and returns a tailored itinerary that best fits the user's needs.
 
 The model uses NLP to process and understand the user's input, and Network Analysis to analyze travel data specific to Region 4a and suggest the optimal route. The model also considers various factors such as travel time, cost, and availability to provide a comprehensive recommendation.
 
